@@ -13,3 +13,5 @@ A recipe generator app that suggests recipes based on ingredients you have.
 - Add ingredients you have
 - Get recipe suggestions
 - Clean, modern interface
+
+Check it out live at https://cook-prompt-one.vercel.app/  
